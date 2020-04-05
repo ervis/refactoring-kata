@@ -1,4 +1,3 @@
 rootProject.name = 'refactoring-kata'
 
-include('hello')
-include('legacy-code')
+include('legacy-code-social-kata')
